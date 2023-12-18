@@ -1,0 +1,5 @@
+airflow-spark-pipeline
+__pycache__
+*.pyo
+.git
+*.pyc
